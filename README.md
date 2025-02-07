@@ -17,4 +17,20 @@ Python es un lenguaje de programación orientado a objetos desde su núcleo. Su 
             - Enteros
             - Reales
             - Complejos
+        - Strings
+        - Booleanos
+    - Colecciones
+        - Listas
+        - Tuplas
+        - Diccionarios
+        - Range
+    - Control de Flujo
+        - Condicionales
+          - if
+          - if/else
+          - if/elif/else
+        - Bucles
+          - while
+          - for
+              
 
